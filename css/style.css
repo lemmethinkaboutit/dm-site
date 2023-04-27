@@ -18,13 +18,7 @@
             padding: 0 50px; 
         }
 
-        .introduction {
-            margin: 10px auto;
-            max-width: 1000px;
-            min-width: none;
-            padding: 0 auto;
-            
-        }
+      
 
         .center {
             display: block;
@@ -36,18 +30,10 @@
             padding: 5px;
             border: 1px solid black;
         }
-.main-heading {
-    margin: 10px auto;
-    max-width: 1200px;
-    min-width: none;
-    padding: 0 auto;
-}
+
 
 table {
     margin: 10px auto;
-    max-width: 600px;
-    min-width: none;
-    padding: 0 auto;
 }
 
           
